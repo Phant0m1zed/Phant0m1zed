@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m mr-nu11-dev 👋
+# Hi, I’m Phant0m1zed 👋
 
 ### 🤖 Aspiring Artificial Intelligence Student
 *Lifelong learner | Building and experimenting with technology*
