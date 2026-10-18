@@ -46,12 +46,6 @@
 - Solid on data structures, algorithms, and OOP across multiple languages.
 - Comfortable with Git workflows and collaborating on shared codebases.
 
-### 🚀 Projects
-
-- **[SQLeasy](https://github.com/Phant0m1zed/sqleasy)**: a lightweight, browser-based SQLite manager. Create tables, edit rows, and export the database without writing SQL. ([live demo](https://sqleasy.onrender.com))
-- **[pygolem](https://github.com/Phant0m1zed/pygolem)**: a dependency-free Python package that wraps `ThreadPoolExecutor` with ordered results, per-item error isolation, retries with backoff, and rate limiting. ([PyPI](https://pypi.org/project/pygolem))
-
----
 
 ## 🛠️ Tech Stack
 
